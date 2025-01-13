@@ -1,0 +1,14 @@
+minimalmodbus
+pandas
+plotly
+matplotlib
+datetime 
+numpy
+requests
+json
+"cloud-sql-python-connector[pymysql]"
+os
+
+pymysql
+
+sqlalchemy
